@@ -1,10 +1,4 @@
 
-@font-face {
-    font-family: "Pacifico";
-    src: url("../fonts/pacifico-regular-webfont.woff2") format("woff2");
-  }
-
-
 
 /* Estilos para iPhone 15 y 15 Pro */
 @media only screen and (width: 393px) and (height: 852px) and (-webkit-device-pixel-ratio: 3) {
@@ -28,6 +22,7 @@
     padding: 0%;
 
   }
+
   
   body {
     min-height: 100vh;
@@ -81,4 +76,5 @@
 img {
   width: 40px;
   height: auto;
+  
 }
