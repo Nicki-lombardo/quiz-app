@@ -67,6 +67,7 @@
 }
 
 .main-footer {
+  display: flexbox;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -74,4 +75,10 @@
   text-align: center; /* Para centrar los elementos dentro del footer */
   background-color: tomato; /* Cambia esto al color deseado */
   /* Otros estilos que desees aplicar al footer */
+}
+
+
+img {
+  width: 40px;
+  height: auto;
 }
